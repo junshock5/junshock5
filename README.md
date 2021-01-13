@@ -37,7 +37,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/C++-005a9c?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET&logoColor=#5C2D91"/></a>
-<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=#339933"/></a>
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=green"/></a>
 <img src="https://img.shields.io/badge/ruby-CC342D?style=flat-square&logo=ruby&logoColor=#CC342D"/></a>
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=#CC0000"/></a>   
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a>
