@@ -35,7 +35,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/SQLite-3766AB?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mongodb-3766AB?style=flat-square&logo=mongodb&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-3766AB?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C#&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/.NET-3766AB?style=flat-square&logo=.NET&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/node.js-3766AB?style=flat-square&logo=node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ruby-3766AB?style=flat-square&logo=ruby&logoColor=white"/></a>
