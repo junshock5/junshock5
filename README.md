@@ -44,7 +44,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/docker-3766AB?style=flat-square&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-3766AB?style=flat-square&logo=Kubernetes&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-3766AB?style=flat-square&logo=IntelliJ%20IDEA&logoColor=#000000"/></a>
-<img src="https://img.shields.io/badge/Visual%20Studio-3766AB?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a>
+<img src="https://img.shields.io/badge/Visual%20Studio-3766AB?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a> 
 
 ⚡토이 프로젝트⚡
 ---
