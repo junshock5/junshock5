@@ -37,6 +37,10 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=toby-spring-study&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/toby-spring-study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=docker_kubernetes&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/docker_kubernetes)
 
+🙏기여🙏
+---
+![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=dark&bg_color=#3399ff) 
+
 💻언어 & 툴💻 
 ---
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
@@ -59,10 +63,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=black"/></a>   
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=#000000"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a>
-
-🙏기여🙏
----
-![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=dark&bg_color=#3399ff) 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/junshock5%2Fhit-counter)                 
                                                 
