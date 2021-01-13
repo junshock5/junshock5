@@ -2,7 +2,7 @@
 ✨소개✨
 ---
 > 운동을 좋아하고   
-> 피규어를 좋아하고    https://camo.githubusercontent.com/551958ea74c6c812b57a276e6d720341047bd65ef4af8b1ff3a0005e052fd5fa/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4261726548656176656e6c79426c756566696e74756e612d73697a655f726573747269637465642e676966
+> 피규어를 좋아하고    
 > 무엇보다 **개발**을 사랑하는 사람   
 <a href="https://junshock5.tistory.com">
 <img src="http://img.shields.io/badge/-Tech%20Blog-green?style=flat&logo=Bloglovin&link=https://junshock5.tistory.com/"
