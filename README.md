@@ -1,5 +1,6 @@
 ![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=#3399ff)   
-![giphy](https://user-images.githubusercontent.com/61732452/104488690-12d0b580-5612-11eb-89e1-889940d8b807.gif)
+
+![giphy](https://user-images.githubusercontent.com/61732452/104488986-778c1000-5612-11eb-8765-aee9ae6b4646.gif)
 소개 
 ---
 > 운동을 좋아하고   
