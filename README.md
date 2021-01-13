@@ -2,7 +2,7 @@
 ---
 운동을 좋아하고![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104489546-1c0e5200-5613-11eb-8c81-1647dcb6da70.gif)   
 피규어를 좋아하고   
-무엇보다 **개발**을 사랑하는 사람![giphy (3)](https://user-images.githubusercontent.com/61732452/104491547-bff8fd00-5615-11eb-9c76-eb0c99f596c2.gif)
+무엇보다 **개발**을 사랑하는 사람![giphy (3) (1)](https://user-images.githubusercontent.com/61732452/104491716-f767a980-5615-11eb-953d-5293d0bac715.gif)
 
 <a href="https://junshock5.tistory.com">
 <img src="http://img.shields.io/badge/-Tech%20Blog-green?style=flat&logo=Bloglovin&link=https://junshock5.tistory.com/"
