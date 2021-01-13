@@ -1,9 +1,9 @@
 ![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=#3399ff)
 
-<a href="https://alpox.kr">
+<a href="https://junshock5.tistory.com">
 <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-<a href="https://instagram.com/alpox.dev">
+<a href="https://www.instagram.com/junshock5/">
 <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junshock5/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
