@@ -30,10 +30,10 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/></a>
 <img src="https://img.shields.io/badge/Mybatis-3766AB?style=flat-square&logo=Mybatis&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jpa-3766AB?style=flat-square&logo=Jpa&logoColor=white"/></a>   
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=#4479A1"/></a>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=blue"/></a>
 <img src="https://img.shields.io/badge/mssql-3766AB?style=flat-square&logo=mssql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=#003B57"/></a>
-<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=#47A248"/></a>   
+<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=green"/></a>   
 <img src="https://img.shields.io/badge/C++-005a9c?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET&logoColor=#5C2D91"/></a>
