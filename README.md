@@ -1,4 +1,3 @@
-![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104490936-deaac400-5614-11eb-967e-af3f097b965e.gif)
 소개![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104490936-deaac400-5614-11eb-967e-af3f097b965e.gif)
 ---
 운동을 좋아하고![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104489546-1c0e5200-5613-11eb-8c81-1647dcb6da70.gif)   
