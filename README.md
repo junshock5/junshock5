@@ -12,7 +12,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0">
 <img src="http://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&link=https://www.instagram.com/junshock5/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-&nbsp;
+&nbsp;   
 <a href="https://junshock5.tistory.com/133?category=847028">
 <img src="http://img.shields.io/badge/-article1-purple?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
