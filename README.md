@@ -1,6 +1,6 @@
 ![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=#3399ff)
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 
 🌱토이 프로젝트🌱
 ---
