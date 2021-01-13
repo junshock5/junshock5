@@ -39,7 +39,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/node.js-3766AB?style=flat-square&logo=node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ruby-3766AB?style=flat-square&logo=ruby&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-3766AB?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white"/></a>   
-<img src="https://img.shields.io/badge/aws-3766AB?style=flat-square&logo=aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon%20AWS-3766AB?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/nbp-3766AB?style=flat-square&logo=nbp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/docker-3766AB?style=flat-square&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-3766AB?style=flat-square&logo=Kubernetes&logoColor=white"/></a>   
