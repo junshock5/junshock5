@@ -1,3 +1,4 @@
+![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=#3399ff)
 ✨소개✨
 ---
 > 운동을 좋아하고   
@@ -23,7 +24,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="http://img.shields.io/badge/-article3-yellow?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
-![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=#3399ff)
+
 
 
 
