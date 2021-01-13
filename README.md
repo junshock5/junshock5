@@ -1,4 +1,4 @@
-![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=grey200,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5)
+![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=200,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&theme=gruvbox)](https://github.com/junshock5/inflearnJpa)
 
