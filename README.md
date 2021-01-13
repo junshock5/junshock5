@@ -1,5 +1,6 @@
 ![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=#3399ff)   
-✨소개<div style="width:100%;height:0;padding-bottom:121%;position:relative;"><iframe src="https://giphy.com/embed/AWNxDbtHGIJDW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/watch-apple-alle-AWNxDbtHGIJDW">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/61732452/104488690-12d0b580-5612-11eb-89e1-889940d8b807.gif)
+소개 
 ---
 > 운동을 좋아하고   
 > 피규어를 좋아하고    
