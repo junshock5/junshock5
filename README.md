@@ -1,6 +1,4 @@
-![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=radical)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=github-readme-stats)](https://github.com/junshock5/used-market-server)
+![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=radical&bg_color=DEG)
 <!--
 **junshock5/junshock5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
