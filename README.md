@@ -42,8 +42,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=#CC0000"/></a>   
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a>
 <img src="https://img.shields.io/badge/nbp-3766AB?style=flat-square&logo=nbp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=#2496ED"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=#326CE5"/></a>   
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=sky"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=blue"/></a>   
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=#000000"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a>
 
