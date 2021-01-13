@@ -1,5 +1,5 @@
 <a href="https://junshock5.tistory.com">
-<img src="http://img.shields.io/badge/-Tech%20Blog-orange?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
+<img src="http://img.shields.io/badge/-Tech%20Blog-red?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.instagram.com/junshock5/">
 <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junshock5/"
