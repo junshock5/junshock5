@@ -5,7 +5,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junshock5/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0">
-<img src="http://img.shields.io/badge/-YouTube-black?style=flat&logo=Instagram&link=https://www.instagram.com/junshock5/"
+<img src="http://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&link=https://www.instagram.com/junshock5/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=#3399ff)
