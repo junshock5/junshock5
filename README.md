@@ -28,7 +28,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 ---
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/></a>
-<img src="https://img.shields.io/badge/Mybatis-3766AB?style=flat-square&logo=Mybatis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mybatis-yellow?style=flat-square&logo=Mybatis&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jpa-3766AB?style=flat-square&logo=Jpa&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/mysql-f7f7f7?style=flat-square&logo=mysql&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/mssql-3766AB?style=flat-square&logo=mssql&logoColor=white"/></a>
@@ -41,7 +41,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/ruby-CC342D?style=flat-square&logo=ruby&logoColor=#CC342D"/></a>
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=#CC0000"/></a>   
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a>
-<img src="https://img.shields.io/badge/nbp-3766AB?style=flat-square&logo=nbp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/nbp-orange?style=flat-square&logo=nbp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=black"/></a>   
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=#000000"/></a>
