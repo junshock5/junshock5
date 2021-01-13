@@ -3,7 +3,7 @@
 ![giphy](https://user-images.githubusercontent.com/61732452/104488986-778c1000-5612-11eb-8765-aee9ae6b4646.gif)
 소개 
 ---
-> 운동을 좋아하고   
+> 운동을 좋아하고   ![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104489546-1c0e5200-5613-11eb-8c81-1647dcb6da70.gif)
 > 피규어를 좋아하고    
 > 무엇보다 **개발**을 사랑하는 사람   
 <a href="https://junshock5.tistory.com">
