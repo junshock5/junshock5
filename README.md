@@ -28,10 +28,21 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 ---
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=#007396"/></a>
 <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a>
-<img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mybatis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Jpa&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=mssql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=mongodb&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C#&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=.NET&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=ruby&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=rails&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=nbp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
+
 
 ⚡토이 프로젝트⚡
 ---
