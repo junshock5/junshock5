@@ -24,7 +24,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="http://img.shields.io/badge/-article3-yellow?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
-💻관심 언어 & 툴💻 
+💻언어 & 툴💻 
 ---
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
