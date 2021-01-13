@@ -24,6 +24,19 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="http://img.shields.io/badge/-article3-yellow?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
+⚡토이 프로젝트⚡
+---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/inflearnJpa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=used-market-server&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/used-market-server)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=coupon&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/coupon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=mini-WAS&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/mini-WAS)
+
+📚스터디📚
+---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=toby-spring-study&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/toby-spring-study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=docker_kubernetes&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/docker_kubernetes)
+
 💻언어 & 툴💻 
 ---
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
@@ -46,19 +59,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=black"/></a>   
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=#000000"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a>
-
-⚡토이 프로젝트⚡
----
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/inflearnJpa)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=used-market-server&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/used-market-server)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=coupon&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/coupon)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=mini-WAS&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/mini-WAS)
-
-📚스터디📚
----
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=toby-spring-study&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/toby-spring-study)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=docker_kubernetes&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/docker_kubernetes)
 
 🙏기여🙏
 ---
