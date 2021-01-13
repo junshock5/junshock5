@@ -27,25 +27,25 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 💻언어 & 툴💻 
 ---
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
-<img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a>
 <img src="https://img.shields.io/badge/Mybatis-3766AB?style=flat-square&logo=Mybatis&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jpa-3766AB?style=flat-square&logo=Jpa&logoColor=white"/></a>   
-<img src="https://img.shields.io/badge/mysql-3766AB?style=flat-square&logo=mysql&logoColor=#4479A1"/></a>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=#4479A1"/></a>
 <img src="https://img.shields.io/badge/mssql-3766AB?style=flat-square&logo=mssql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SQLite-3766AB?style=flat-square&logo=SQLite&logoColor=#003B57"/></a>
-<img src="https://img.shields.io/badge/mongodb-3766AB?style=flat-square&logo=mongodb&logoColor=#47A248"/></a>   
-<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=#00599C"/></a>
-<img src="https://img.shields.io/badge/CSharp-3766AB?style=flat-square&logo=C++&logoColor=#00599C"/></a>
-<img src="https://img.shields.io/badge/.NET-3766AB?style=flat-square&logo=.NET&logoColor=#5C2D91"/></a>
-<img src="https://img.shields.io/badge/node.js-3766AB?style=flat-square&logo=node.js&logoColor=#339933"/></a>
-<img src="https://img.shields.io/badge/ruby-3766AB?style=flat-square&logo=ruby&logoColor=#CC342D"/></a>
-<img src="https://img.shields.io/badge/Ruby%20on%20Rails-3766AB?style=flat-square&logo=Ruby%20on%20Rails&logoColor=#CC0000"/></a>   
-<img src="https://img.shields.io/badge/Amazon%20AWS-3766AB?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=#003B57"/></a>
+<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=#47A248"/></a>   
+<img src="https://img.shields.io/badge/C++-005a9c?style=flat-square&logo=C++&logoColor=#00599C"/></a>
+<img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=C++&logoColor=#00599C"/></a>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET&logoColor=#5C2D91"/></a>
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=#339933"/></a>
+<img src="https://img.shields.io/badge/ruby-CC342D?style=flat-square&logo=ruby&logoColor=#CC342D"/></a>
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=#CC0000"/></a>   
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a>
 <img src="https://img.shields.io/badge/nbp-3766AB?style=flat-square&logo=nbp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/docker-3766AB?style=flat-square&logo=docker&logoColor=#2496ED"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-3766AB?style=flat-square&logo=Kubernetes&logoColor=#326CE5"/></a>   
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-3766AB?style=flat-square&logo=IntelliJ%20IDEA&logoColor=#000000"/></a>
-<img src="https://img.shields.io/badge/Visual%20Studio-3766AB?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=#2496ED"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=#326CE5"/></a>   
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=#000000"/></a>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a>
 
 ⚡토이 프로젝트⚡
 ---
