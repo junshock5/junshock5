@@ -14,13 +14,13 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>   
 
 <a href="https://junshock5.tistory.com/133?category=847028">
-<img src="http://img.shields.io/badge/-Tech%20Blog-red?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
+<img src="http://img.shields.io/badge/-article1-red?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://blog.naver.com/algorithmjobs/221330188916">
-<img src="http://img.shields.io/badge/-Tech%20Blog-blue?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
+<img src="http://img.shields.io/badge/-article2-blue?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://jusingame.cafe24.com/xe/5958">
-<img src="http://img.shields.io/badge/-Tech%20Blog-green?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
+<img src="http://img.shields.io/badge/-article3-green?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=#3399ff)
