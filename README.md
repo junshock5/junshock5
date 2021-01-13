@@ -2,11 +2,11 @@
 
 🌱토이 프로젝트🌱
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&theme=gruvbox&bg_color=FFFFFF)](https://github.com/junshock5/inflearnJpa)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=used-market-server&show_icons=true&theme=radical)](https://github.com/junshock5/used-market-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&theme=gruvbox&bg_color=#FFFFFF)](https://github.com/junshock5/inflearnJpa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=used-market-server&show_icons=true&theme=radical&bg_color=#FFFFFF)](https://github.com/junshock5/used-market-server)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=coupon&show_icons=true&theme=tokyonight)](https://github.com/junshock5/coupon)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=mini-WAS&show_icons=true&theme=onedark)](https://github.com/junshock5/mini-WAS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=coupon&show_icons=true&theme=tokyonight&bg_color=#FFFFFF)](https://github.com/junshock5/coupon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=mini-WAS&show_icons=true&theme=onedark&bg_color=#FFFFFF)](https://github.com/junshock5/mini-WAS)
 
 ⚡스터디⚡
 ---
