@@ -30,7 +30,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/></a>
 <img src="https://img.shields.io/badge/Mybatis-3766AB?style=flat-square&logo=Mybatis&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jpa-3766AB?style=flat-square&logo=Jpa&logoColor=white"/></a>   
-<img src="https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql&logoColor=f7f7f7"/></a>
+<img src="https://img.shields.io/badge/mysql-f7f7f7?style=flat-square&logo=mysql&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/mssql-3766AB?style=flat-square&logo=mssql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=#003B57"/></a>
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=green"/></a>   
