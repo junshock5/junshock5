@@ -1,5 +1,7 @@
 ![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=#3399ff)
 
+https://img.shields.io/static/v1?label=<LABEL>&message=<blog>&color=<COLOR>
+
 🌱토이 프로젝트🌱
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&theme=gruvbox&bg_color=EDF1FF)](https://github.com/junshock5/inflearnJpa)
