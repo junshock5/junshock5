@@ -2,7 +2,7 @@
 ---
 운동을 좋아하고   
 피규어를 좋아하고   
-무엇보다 개발을 좋아하는 사람   
+무엇보다 *개발*을 좋아하는 사람   
 <a href="https://junshock5.tistory.com">
 <img src="http://img.shields.io/badge/-Tech%20Blog-green?style=flat&logo=Bloglovin&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
@@ -11,6 +11,16 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0">
 <img src="http://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&link=https://www.instagram.com/junshock5/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>   
+
+<a href="https://junshock5.tistory.com/133?category=847028">
+<img src="http://img.shields.io/badge/-Tech%20Blog-red?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://blog.naver.com/algorithmjobs/221330188916">
+<img src="http://img.shields.io/badge/-Tech%20Blog-blue?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://jusingame.cafe24.com/xe/5958">
+<img src="http://img.shields.io/badge/-Tech%20Blog-green?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=synthwave&bg_color=#3399ff)
