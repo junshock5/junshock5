@@ -26,7 +26,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 💻언어 & 툴💻 
 ---
-<img src="https://img.shields.io/badge/Java-0080B7?style=flat-square&logo=Java&logoColor=#007396"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
 <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a>
 <img src="https://img.shields.io/badge/Mybatis-3766AB?style=flat-square&logo=Mybatis&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jpa-3766AB?style=flat-square&logo=Jpa&logoColor=white"/></a>   
