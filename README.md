@@ -1,8 +1,8 @@
 소개![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104490936-deaac400-5614-11eb-967e-af3f097b965e.gif)
 ---
-운동을 좋아하고![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104489546-1c0e5200-5613-11eb-8c81-1647dcb6da70.gif)   
-피규어를 좋아하고![giphy (4) (1)](https://user-images.githubusercontent.com/61732452/104492547-2a5e6d00-5617-11eb-9410-d89b00467097.gif)   
-무엇보다 **개발**을 사랑하는 사람![giphy (3) (5)](https://user-images.githubusercontent.com/61732452/104492275-bb811400-5616-11eb-8636-b8e6c90b4eb4.gif)
+  - 운동을 좋아하고![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104489546-1c0e5200-5613-11eb-8c81-1647dcb6da70.gif)
+  - 피규어를 좋아하고![giphy (4) (1)](https://user-images.githubusercontent.com/61732452/104492547-2a5e6d00-5617-11eb-9410-d89b00467097.gif)
+  - 무엇보다 **개발**을 사랑하는 사람![giphy (3) (5)](https://user-images.githubusercontent.com/61732452/104492275-bb811400-5616-11eb-8636-b8e6c90b4eb4.gif)
 
 <a href="https://junshock5.tistory.com">
 <img src="http://img.shields.io/badge/-Tech%20Blog-green?style=flat&logo=Bloglovin&link=https://junshock5.tistory.com/"
@@ -35,7 +35,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/SQLite-3766AB?style=flat-square&logo=SQLite&logoColor=#003B57"/></a>
 <img src="https://img.shields.io/badge/mongodb-3766AB?style=flat-square&logo=mongodb&logoColor=#47A248"/></a>   
 <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=#00599C"/></a>
-<img src="https://img.shields.io/badge/Csharp-3766AB?style=flat-square&logo=C++&logoColor=#00599C"/></a>
+<img src="https://img.shields.io/badge/CSharp-3766AB?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/.NET-3766AB?style=flat-square&logo=.NET&logoColor=#5C2D91"/></a>
 <img src="https://img.shields.io/badge/node.js-3766AB?style=flat-square&logo=node.js&logoColor=#339933"/></a>
 <img src="https://img.shields.io/badge/ruby-3766AB?style=flat-square&logo=ruby&logoColor=#CC342D"/></a>
