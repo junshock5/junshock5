@@ -37,15 +37,15 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 🌱토이 프로젝트🌱
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&theme=dark&bg_color=FFFFFF)](https://github.com/junshock5/inflearnJpa)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=used-market-server&show_icons=true&theme=dark&bg_color=FFFFFF)](https://github.com/junshock5/used-market-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&theme=tokyonight&bg_color=FFFFFF)](https://github.com/junshock5/inflearnJpa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=used-market-server&show_icons=true&theme=tokyonight&bg_color=FFFFFF)](https://github.com/junshock5/used-market-server)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=coupon&show_icons=true&theme=dark&bg_color=FFFFFF)](https://github.com/junshock5/coupon)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=mini-WAS&show_icons=true&theme=dark&bg_color=FFFFFF)](https://github.com/junshock5/mini-WAS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=coupon&show_icons=true&theme=tokyonight&bg_color=FFFFFF)](https://github.com/junshock5/coupon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=mini-WAS&show_icons=true&theme=tokyonight&bg_color=FFFFFF)](https://github.com/junshock5/mini-WAS)
 
 ⚡스터디⚡
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=toby-spring-study&show_icons=true&theme=tokyonight&bg_color=EDF1FF)](https://github.com/junshock5/toby-spring-study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=toby-spring-study&show_icons=true&theme=radical&bg_color=EDF1FF)](https://github.com/junshock5/toby-spring-study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=docker_kubernetes&show_icons=true&theme=radical&bg_color=EDF1FF)](https://github.com/junshock5/docker_kubernetes)
 <!--
 **junshock5/junshock5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
