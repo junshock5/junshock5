@@ -1,8 +1,8 @@
-소개![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104490936-deaac400-5614-11eb-967e-af3f097b965e.gif)
+Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104490936-deaac400-5614-11eb-967e-af3f097b965e.gif)
 ---
-   운동을 좋아하고![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104489546-1c0e5200-5613-11eb-8c81-1647dcb6da70.gif)   
-   피규어를 좋아하고![giphy (4) (1)](https://user-images.githubusercontent.com/61732452/104492547-2a5e6d00-5617-11eb-9410-d89b00467097.gif)   
-   무엇보다 **개발**을 사랑하는 사람![giphy (3) (5)](https://user-images.githubusercontent.com/61732452/104492275-bb811400-5616-11eb-8636-b8e6c90b4eb4.gif)
+   *I like to exercise!*[giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104489546-1c0e5200-5613-11eb-8c81-1647dcb6da70.gif)   
+   *I like figures!*[giphy (4) (1)](https://user-images.githubusercontent.com/61732452/104492547-2a5e6d00-5617-11eb-9410-d89b00467097.gif)   
+   *Above all, someone who loves **development**!*[giphy (3) (5)](https://user-images.githubusercontent.com/61732452/104492275-bb811400-5616-11eb-8636-b8e6c90b4eb4.gif)
 
 <a href="https://junshock5.tistory.com">
 <img src="http://img.shields.io/badge/-Tech%20Blog-03c65a?style=flat&logo=Bloglovin&link=https://junshock5.tistory.com/"
@@ -24,7 +24,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="http://img.shields.io/badge/-article3-174EA6?style=flat&logo=Google%20News&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
-⚡토이 프로젝트⚡
+⚡Toy Project⚡
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=used-market-server&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/used-market-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/inflearnJpa)
@@ -37,7 +37,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=toby-spring-study&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/toby-spring-study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=docker_kubernetes&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/docker_kubernetes)
 
-💻언어 & 툴💻 
+💻Languages & Tools💻 
 ---
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/></a>
@@ -60,7 +60,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=#000000"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a>
 
-🙏기여🙏
+🙏Contribute🙏
 ---
 ![junshock5's github stats](https://github-readme-stats.vercel.app/api?username=junshock5&show_icons=true&theme=dark&bg_color=#3399ff) 
 
