@@ -24,7 +24,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="http://img.shields.io/badge/-article3-white?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
-🚀토이 프로젝트🚀
+⚡토이 프로젝트⚡
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=used-market-server&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/used-market-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/inflearnJpa)
