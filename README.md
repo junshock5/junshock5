@@ -15,13 +15,13 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br/>
 <a href="https://junshock5.tistory.com/133?category=847028">
-<img src="http://img.shields.io/badge/-article1-purple?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
+<img src="http://img.shields.io/badge/-article1-white?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://blog.naver.com/algorithmjobs/221330188916">
-<img src="http://img.shields.io/badge/-article2-blue?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
+<img src="http://img.shields.io/badge/-article2-white?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://jusingame.cafe24.com/xe/5958">
-<img src="http://img.shields.io/badge/-article3-yellow?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
+<img src="http://img.shields.io/badge/-article3-white?style=flat&logo=Blogger&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ⚡토이 프로젝트⚡
