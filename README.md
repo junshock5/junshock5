@@ -38,6 +38,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=toby-spring-study&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/toby-spring-study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=docker_kubernetes&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/docker_kubernetes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=Coding-Test&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/Coding-Test)
 
 💻Languages & Tools💻 
 ---
