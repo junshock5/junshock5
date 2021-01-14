@@ -55,7 +55,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=#003B57"/></a>  
 <img src="https://img.shields.io/badge/C++-f6f644?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=C++&logoColor=#00599C"/></a>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET&logoColor=#5C2D91"/></a>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET&logoColor=#5C2D91"/></a>   
 **Sub**   
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=green"/></a> 
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=green"/></a>
