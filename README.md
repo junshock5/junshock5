@@ -45,6 +45,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 💻Languages & Tools💻 
 ---
+* Main
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/></a>
 <img src="https://img.shields.io/badge/Mybatis-yellow?style=flat-square&logo=Mybatis&logoColor=white"/></a>
@@ -56,6 +57,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/C++-f6f644?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET&logoColor=#5C2D91"/></a>
+* Sub
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=green"/></a>
 <img src="https://img.shields.io/badge/ruby-CC342D?style=flat-square&logo=ruby&logoColor=#CC342D"/></a>
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby%20on%20Rails&logoColor=#CC0000"/></a>   
