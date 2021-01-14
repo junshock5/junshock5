@@ -5,7 +5,7 @@
    무엇보다 **개발**을 사랑하는 사람![giphy (3) (5)](https://user-images.githubusercontent.com/61732452/104492275-bb811400-5616-11eb-8636-b8e6c90b4eb4.gif)
 
 <a href="https://junshock5.tistory.com">
-<img src="http://img.shields.io/badge/-Tech%20Blog-green?style=flat&logo=Bloglovin&link=https://junshock5.tistory.com/"
+<img src="http://img.shields.io/badge/-Tech%20Blog-03c65a?style=flat&logo=Bloglovin&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.instagram.com/junshock5/">
 <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junshock5/"
