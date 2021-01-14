@@ -1,7 +1,5 @@
 Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104490936-deaac400-5614-11eb-967e-af3f097b965e.gif)
----
-   *I like to exercise*![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104489546-1c0e5200-5613-11eb-8c81-1647dcb6da70.gif)   
-   *I like figures*![giphy (4) (1)](https://user-images.githubusercontent.com/61732452/104492547-2a5e6d00-5617-11eb-9410-d89b00467097.gif)   
+--- 
    *I am a developer who is interested in **Spring Framework** and **Server architecture***   
    *The main languages are **Java** and other languages can be used at basic levels.*   
    *Above all, someone who loves **development***![giphy (3) (5)](https://user-images.githubusercontent.com/61732452/104492275-bb811400-5616-11eb-8636-b8e6c90b4eb4.gif)
