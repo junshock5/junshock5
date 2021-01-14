@@ -1,8 +1,8 @@
 Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/104490936-deaac400-5614-11eb-967e-af3f097b965e.gif)
 --- 
-   *I am a developer who is interested in **Spring Framework** and **Server architecture***   
+   *I am a developer who is interested in **Spring Framework** and **Server architecture**.*   
    *The main languages are **Java** and other languages can be used at basic levels.*   
-   *Above all, someone who loves **development***![giphy (3) (5)](https://user-images.githubusercontent.com/61732452/104492275-bb811400-5616-11eb-8636-b8e6c90b4eb4.gif)
+   *Above all, someone who loves **development**.*![giphy (3) (5)](https://user-images.githubusercontent.com/61732452/104492275-bb811400-5616-11eb-8636-b8e6c90b4eb4.gif)
 
 <a href="https://junshock5.tistory.com">
 <img src="http://img.shields.io/badge/-Tech%20Blog-03c65a?style=flat&logo=Bloglovin&link=https://junshock5.tistory.com/"
