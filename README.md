@@ -15,6 +15,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0">
 <img src="http://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://junshock5.github.io/JunResume.github.io/index.html">
+<img src="http://img.shields.io/badge/-Resume-B7472A?style=flat&logo=Microsoft%20PowerPoint&link=https://junshock5.github.io/JunResume.github.io/index.html"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br/>
 <a href="https://junshock5.tistory.com/133?category=847028">
 <img src="http://img.shields.io/badge/-article1-174EA6?style=flat&logo=Google%20News&link=https://junshock5.tistory.com/"
