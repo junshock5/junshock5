@@ -19,14 +19,17 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="http://img.shields.io/badge/-Resume-FFFA78?style=flat&logo=Proto.io&link=https://junshock5.github.io/JunResume.github.io/index.html"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <br/>
-<a href="https://junshock5.tistory.com/133?category=847028">
+<a href="https://junshock5.tistory.com/150">
 <img src="http://img.shields.io/badge/-article1-174EA6?style=flat&logo=Google%20News&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-<a href="https://blog.naver.com/algorithmjobs/221330188916">
+<a href="https://junshock5.tistory.com/133?category=847028">
 <img src="http://img.shields.io/badge/-article2-174EA6?style=flat&logo=Google%20News&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-<a href="https://jusingame.cafe24.com/xe/5958">
+<a href="https://blog.naver.com/algorithmjobs/221330188916">
 <img src="http://img.shields.io/badge/-article3-174EA6?style=flat&logo=Google%20News&link=https://junshock5.tistory.com/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://jusingame.cafe24.com/xe/5958">
+<img src="http://img.shields.io/badge/-article4-174EA6?style=flat&logo=Google%20News&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ⚡Toy Project⚡
