@@ -46,7 +46,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=docker_kubernetes&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/docker_kubernetes)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=Coding-Test&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/Coding-Test)
 
-🧑‍💻Group Project💻🧑‍
+🧑‍Group Project🧑‍
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=jinmusa_team&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/jinmusa_team)
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=depromeet&show_icons=true&bg_color=FFFFFF)](https://www.notion.so/depromeet/3-20-53335d9acb174f3682ec9fb9d03bcaef)-->
