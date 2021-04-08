@@ -65,7 +65,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=#003B57"/></a>  
 <img src="https://img.shields.io/badge/python-f6f644?style=flat-square&logo=python&logoColor=#000000"/></a>
 <img src="https://img.shields.io/badge/django-00599C?style=flat-square&logo=django&logoColor=green"/></a>
-<img src="https://img.shields.io/badge/vue.js-5C2D91?style=flat-square&logo=vue.js&logoColor="/></a> 
+<img src="https://img.shields.io/badge/vue.js-5C2D91?style=flat-square&logo=vue.js&logoColor=pink"/></a> 
 * **Sub**   
 <img src="https://img.shields.io/badge/C++-f6f644?style=flat-square&logo=C++&logoColor=#00599C"/></a>
 <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=C++&logoColor=#00599C"/></a>
