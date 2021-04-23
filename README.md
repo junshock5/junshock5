@@ -46,6 +46,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=docker_kubernetes&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/docker_kubernetes)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=Coding-Test&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/Coding-Test)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=Python-Django&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/Python-Django)
+
+🧑‍Group Project👩
+---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=depromeet&repo=depromeet-9-6-backend&show_icons=true&bg_color=FFFFFF)](https://github.com/depromeet/depromeet-9-6-backend.git)
 
 <!-- 🧑‍Group Project👩
