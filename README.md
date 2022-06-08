@@ -34,6 +34,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ⚡Toy Project⚡
 ---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=gonghatalk&show_icons=true&bg_color=FFFFFF)]([https://github.com/junshock5/used-market-server](https://github.com/junshock5/gonghatalk))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=used-market-server&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/used-market-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=junshock5&repo=inflearnJpa&show_icons=true&bg_color=FFFFFF)](https://github.com/junshock5/inflearnJpa)
 
