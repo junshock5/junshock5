@@ -17,10 +17,10 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
-<a href="[https://www.youtube.com/@ccommit9983](https://www.ccommit.kr/)">
-<img src="[http://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0/](https://img.shields.io/badge/#EF9421.svg?&style=for-the-badge&logo=CCOMMIT&logoColor=로고색상A)"
+<a href="https://www.ccommit.kr/">
+<img src="http://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
- 
+
 <a href="https://www.youtube.com/@ccommit9983">
 <img src="http://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
