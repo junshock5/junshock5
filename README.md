@@ -6,28 +6,30 @@ Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/1044909
    
 ![giphy (3) (6)](https://user-images.githubusercontent.com/61732452/104541178-5fdd7780-5664-11eb-9a2b-ce2a16d33dba.gif)
 
+<a href="https://www.ccommit.kr/">
+<img src="http://img.shields.io/badge/-CCOMMIT-FF7F00?style=flat&logo=creativecommons&link=https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://www.youtube.com/@ccommit9983">
+<img src="http://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
+<br/>
+
 <a href="https://junshock5.tistory.com">
 <img src="http://img.shields.io/badge/-Tech%20Blog-03c65a?style=flat&logo=Bloglovin&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://www.instagram.com/junshock5/">
 <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junshock5/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-
 <a href="https://www.linkedin.com/in/junseok-oh-1b42b2158/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-
-<a href="https://www.ccommit.kr/">
-<img src="http://img.shields.io/badge/-CCOMMIT-FF7F00?style=flat&logo=creativecommons&link=https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0/"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-
-<a href="https://www.youtube.com/@ccommit9983">
-<img src="http://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="https://junshock5.github.io/JunResume.github.io/index.html">
 <img src="http://img.shields.io/badge/-Resume-FFFA78?style=flat&logo=Proto.io&link=https://junshock5.github.io/JunResume.github.io/index.html"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
 <br/>
+
 <a href="https://junshock5.tistory.com/150">
 <img src="http://img.shields.io/badge/-article1-174EA6?style=flat&logo=Google%20News&link=https://junshock5.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
