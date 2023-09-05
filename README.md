@@ -18,7 +18,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 <a href="https://www.ccommit.kr/">
-<img src="http://img.shields.io/badge/-CCOMMIT-FFA500?style=flat&logo=creativecommons&link=https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0/"
+<img src="http://img.shields.io/badge/-CCOMMIT-FF7F00?style=flat&logo=creativecommons&link=https://www.youtube.com/channel/UCh-dFXA3RIuKQTX3oy6Smgw/videos?view=0&sort=dd&shelf_id=0/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 <a href="https://www.youtube.com/@ccommit9983">
